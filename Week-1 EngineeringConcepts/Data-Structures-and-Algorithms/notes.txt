@@ -1,0 +1,7 @@
+Problem: Inventory Management System
+Approach: Used HashMap with ProductId as key.
+Time Complexities:
+- Add: O(1)
+- Update: O(1)
+- Delete: O(1)
+Learned: Importance of HashMap for fast lookups.
